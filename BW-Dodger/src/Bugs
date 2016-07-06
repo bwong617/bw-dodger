@@ -1,0 +1,5 @@
+Known bugs:
+
+Collision
+- no fall when holding left/right at a top corner
+- able to jump up through platforms when player head touches ceiling at dx=0
